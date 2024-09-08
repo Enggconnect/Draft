@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.flexbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 45px;
+    position: relative;
+    right: -6px;
+}

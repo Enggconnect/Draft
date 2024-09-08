@@ -1,0 +1,15 @@
+.search {
+    width: 700px;
+    height: 40px;
+    /* top: 45px;
+    left: 370px; */
+    position: relative;
+    background: white;
+    border-radius: 20px;
+    border: 1px #1B5566 solid;
+}
+.search img {
+    position: relative;
+    top: 4px;
+    left: 5px;
+}

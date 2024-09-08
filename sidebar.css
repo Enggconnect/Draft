@@ -1,0 +1,113 @@
+.sidebar {
+    margin-left: -9px;
+    margin-top: 45px;
+    border-radius: 0px 20px 20px 0px;
+    border-top: 2px solid rgba(27, 85, 102, 0.50);
+    border-right: 2px solid rgba(27, 85, 102, 0.50);
+    border-bottom: 2px solid rgba(27, 85, 102, 0.50);
+    background: #FFF;
+    width: 191px;
+    height: 680px;
+}
+
+.saved,
+.study,
+.newsletters,
+.home,
+.societies,
+.interactions,
+.more {
+    color: black;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+    position: absolute;
+}
+.menu-icon {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+}
+.side-menu {
+    width: 29.10px;
+    height: 420.99px;
+    left: 24.59px;
+    top: 132.01px;
+    position: absolute;
+}
+.profile {
+    width: 51.22px;
+    height: 44.22px;
+    position: absolute;
+}
+
+.profile-bg {
+    width: 51.22px;
+    height: 44.22px;
+    left: 9px;
+    top: 10px;
+    position: absolute;
+    background: white;
+    border-radius: 9999px;
+    border: 1px rgba(27, 85, 102, 0.50) solid;
+}
+
+.profile-img {
+    width: 35px;
+    height: 36px;
+    left: 18px;
+    top: 14px;
+    position: absolute;
+}
+
+
+
+.saved {
+    width: 46.10px;
+    height: 15.92px;
+    left: 64.54px;
+    top: 330.99px;
+}
+
+.study {
+    width: 90.15px;
+    height: 15.92px;
+    left: 62.49px;
+    top: 396.43px;
+}
+
+.newsletters {
+    width: 90.15px;
+    height: 15.92px;
+    left: 62px;
+    top: 467px;
+}
+
+.home {
+    width: 70.68px;
+    height: 15.92px;
+    left: 65px;
+    top: 139px;
+}
+
+.societies {
+    width: 69.66px;
+    height: 15.92px;
+    left: 62px;
+    top: 198px;
+}
+
+.interactions {
+    width: 143.41px;
+    height: 25.65px;
+    left: 62.49px;
+    top: 264.66px;
+}
+
+.more {
+    width: 38.93px;
+    height: 15.92px;
+    left: 62px;
+    top: 532px;
+}

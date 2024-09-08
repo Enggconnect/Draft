@@ -1,0 +1,151 @@
+.card {
+    width: 700px;
+    height: 500px;
+    left: 0;
+    top: 0;
+    position: relative;
+    background: white;
+    border-radius: 20px;
+    border: 2px rgba(27, 85, 102, 0.50) solid;
+    margin-top: 10px;
+}
+
+.main-image {
+    width: 450px;
+    height: 170px;
+    left: 120px;
+    top: 227px;
+    position: absolute;
+    border: 2px black solid;
+}
+
+.announcement {
+    width: 600px;
+    height: 90px;
+    left: 45px;
+    top: 137px;
+    position: absolute;
+    color: black;
+    font-size: 22px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.time-dot {
+    width: 5px;
+    height: 5px;
+    left: 241px;
+    top: 42px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.45);
+    border-radius: 9999px;
+}
+
+.time-text {
+    width: 109px;
+    height: 23px;
+    left: 250px;
+    top: 32px;
+    position: absolute;
+    color: rgba(0, 0, 0, 0.45);
+    font-size: 18px;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+
+
+.username {
+    width: 221px;
+    height: 33px;
+    left: 106px;
+    top: 55px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.name {
+    width: 225px;
+    height: 36px;
+    left: 106px;
+    top: 28px;
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.profile-pic {
+    width: 70px;
+    height: 70px;
+    left: 26px;
+    top: 20px;
+    position: absolute;
+}
+
+.follow-button {
+    width: 170px;
+    height: 45px;
+    left: 475px;
+    top: 28px;
+    position: absolute;
+}
+
+.follow-text {
+    width: 85.52px;
+    height: 25.71px;
+    left: 42px;
+    top: 11px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.follow-bg {
+    width: 170px;
+    height: 45px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: rgba(48.70, 98.59, 44.36, 0.49);
+    border-radius: 20px;
+    border: 2px rgba(27, 85, 102, 0.50) solid;
+}
+
+.vertical-line {
+    width: 6px;
+    height: 25px;
+    left: 659px;
+    top: 39px;
+    position: absolute;
+}
+
+.square-1 {
+    width: 20px;
+    height: 18px;
+    left: 110px;
+    top: 448px;
+    position: absolute;
+}
+
+.square-2 {
+    width: 20px;
+    height: 18px;
+    left: 45px;
+    top: 448px;
+    position: absolute;
+}
+
+.square-3 {
+    width: 20px;
+    height: 22px;
+    left: 645px;
+    top: 448px;
+    position: absolute;
+}
